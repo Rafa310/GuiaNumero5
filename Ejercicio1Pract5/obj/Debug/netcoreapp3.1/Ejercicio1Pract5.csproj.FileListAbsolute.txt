@@ -1,0 +1,15 @@
+F:\programacion\Practica 5\Ejercicio1Pract5\Ejercicio1Pract5\bin\Debug\netcoreapp3.1\Ejercicio1Pract5.exe
+F:\programacion\Practica 5\Ejercicio1Pract5\Ejercicio1Pract5\bin\Debug\netcoreapp3.1\Ejercicio1Pract5.deps.json
+F:\programacion\Practica 5\Ejercicio1Pract5\Ejercicio1Pract5\bin\Debug\netcoreapp3.1\Ejercicio1Pract5.runtimeconfig.json
+F:\programacion\Practica 5\Ejercicio1Pract5\Ejercicio1Pract5\bin\Debug\netcoreapp3.1\Ejercicio1Pract5.runtimeconfig.dev.json
+F:\programacion\Practica 5\Ejercicio1Pract5\Ejercicio1Pract5\bin\Debug\netcoreapp3.1\Ejercicio1Pract5.dll
+F:\programacion\Practica 5\Ejercicio1Pract5\Ejercicio1Pract5\bin\Debug\netcoreapp3.1\Ejercicio1Pract5.pdb
+F:\programacion\Practica 5\Ejercicio1Pract5\Ejercicio1Pract5\obj\Debug\netcoreapp3.1\Ejercicio1Pract5.csprojAssemblyReference.cache
+F:\programacion\Practica 5\Ejercicio1Pract5\Ejercicio1Pract5\obj\Debug\netcoreapp3.1\Ejercicio1Pract5.Form1.resources
+F:\programacion\Practica 5\Ejercicio1Pract5\Ejercicio1Pract5\obj\Debug\netcoreapp3.1\Ejercicio1Pract5.csproj.GenerateResource.cache
+F:\programacion\Practica 5\Ejercicio1Pract5\Ejercicio1Pract5\obj\Debug\netcoreapp3.1\Ejercicio1Pract5.AssemblyInfoInputs.cache
+F:\programacion\Practica 5\Ejercicio1Pract5\Ejercicio1Pract5\obj\Debug\netcoreapp3.1\Ejercicio1Pract5.AssemblyInfo.cs
+F:\programacion\Practica 5\Ejercicio1Pract5\Ejercicio1Pract5\obj\Debug\netcoreapp3.1\Ejercicio1Pract5.csproj.CoreCompileInputs.cache
+F:\programacion\Practica 5\Ejercicio1Pract5\Ejercicio1Pract5\obj\Debug\netcoreapp3.1\Ejercicio1Pract5.dll
+F:\programacion\Practica 5\Ejercicio1Pract5\Ejercicio1Pract5\obj\Debug\netcoreapp3.1\Ejercicio1Pract5.pdb
+F:\programacion\Practica 5\Ejercicio1Pract5\Ejercicio1Pract5\obj\Debug\netcoreapp3.1\Ejercicio1Pract5.genruntimeconfig.cache
